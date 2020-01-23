@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_FacebookIntegraionMain_FacebookIntegraionMainUITests : NSObject
+@end
+@implementation PodsDummy_Pods_FacebookIntegraionMain_FacebookIntegraionMainUITests
+@end
